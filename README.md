@@ -19,7 +19,7 @@ The **Animated Shoe UI App** is a Flutter-based mobile application that showcase
 
 ## 📦 Installation
 
-Follow these steps to get started with the Corona Tracker App:
+Follow these steps to get started with that App:
 
 1. **Clone the repository**:
   https://github.com/huzaifaAhmad9/Animated-Shoes-UI.git

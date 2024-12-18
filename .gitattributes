@@ -4,7 +4,6 @@ ios/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
-web/** linguist-vendored
 .idea/** linguist-vendored
 *.gradle linguist-vendored
 *.pbxproj linguist-vendored
